@@ -1,4 +1,4 @@
-# maths-website-basic
+# Maths-website-basic
 Using html and css
 
 
